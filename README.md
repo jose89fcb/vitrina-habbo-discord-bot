@@ -1,4 +1,3 @@
-ESTE ES EL FURNI:<a href="https://habtium.es/furni/item/3161">https://habtium.es/furni/item/3161</a>
 <br>
 <br>
 Si el usuario no existe:
